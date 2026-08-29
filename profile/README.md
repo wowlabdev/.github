@@ -28,4 +28,4 @@
 | [`rulewright`](https://github.com/wowlabdev/rulewright) | Executable engineering standards for Rust workspaces |
 | [`web`](https://github.com/wowlabdev/web)               | Website and web application                          |
 
-WoW Lab projects are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) unless noted otherwise.
+WoW Lab projects are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) unless noted otherwise.
