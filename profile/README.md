@@ -7,15 +7,14 @@
 <h1 align="center">WoW Lab</h1>
 
 <p align="center">
-  WoW combat simulation powered by Rust
+  <a href="https://wowlab.gg/go/discord">Discord</a>
+  |
+  <a href="https://app.wowlab.gg/dev/docs">Docs</a>
 </p>
 
 <p align="center">
-  <a href="https://app.wowlab.gg/simulate/quick">Start simulating</a>
-  |
-  <a href="https://app.wowlab.gg/dev/docs">Docs</a>
-  |
-  <a href="https://wowlab.gg/go/discord">Discord</a>
+  <strong><a href="https://app.wowlab.gg/simulate/quick">Start simulating</a></strong><br />
+  Runs in your browser with WebAssembly.
 </p>
 
 ## Projects
