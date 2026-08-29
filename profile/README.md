@@ -12,10 +12,9 @@
   <a href="https://app.wowlab.gg/dev/docs">Docs</a>
 </p>
 
-<p align="center">
-  <strong><a href="https://app.wowlab.gg/simulate/quick">Start simulating</a></strong><br />
-  Runs in your browser with WebAssembly.
-</p>
+## About
+
+WoW Lab is an open-source World of Warcraft combat simulator written in Rust. [Run a sim](https://app.wowlab.gg/simulate/quick) in your browser with WebAssembly, or use the hosted pool for larger workloads.
 
 ## Projects
 
