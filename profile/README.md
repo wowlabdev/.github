@@ -18,12 +18,13 @@ WoW Lab is an open-source World of Warcraft combat simulator written in Rust. [R
 
 ## Projects
 
-| Repository                                              | Focus                                                |
-| ------------------------------------------------------- | ---------------------------------------------------- |
-| [`addon`](https://github.com/wowlabdev/addon)           | Companion addon                                      |
-| [`core`](https://github.com/wowlabdev/core)             | Simulation engine and hosted runtime                 |
-| [`infra`](https://github.com/wowlabdev/infra)           | Infrastructure and deployment                        |
-| [`rulewright`](https://github.com/wowlabdev/rulewright) | Executable engineering standards for Rust workspaces |
-| [`web`](https://github.com/wowlabdev/web)               | Website and web application                          |
+| Repository                                                  | Focus                                                |
+| ----------------------------------------------------------- | ---------------------------------------------------- |
+| [`addon`](https://github.com/wowlabdev/addon)               | Companion addon                                      |
+| [`core`](https://github.com/wowlabdev/core)                 | Simulation engine and hosted runtime                 |
+| [`infra`](https://github.com/wowlabdev/infra)               | Infrastructure and deployment                        |
+| [`markupwright`](https://github.com/wowlabdev/markupwright) | Template-driven workspace documentation generator    |
+| [`rulewright`](https://github.com/wowlabdev/rulewright)     | Executable engineering standards for Rust workspaces |
+| [`web`](https://github.com/wowlabdev/web)                   | Website and web application                          |
 
 WoW Lab projects are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) unless noted otherwise.
