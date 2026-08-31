@@ -18,14 +18,15 @@ WoW Lab is a source-available World of Warcraft combat simulator written in Rust
 
 ## Projects
 
-| Repository                                                    | Focus                                                               |
-| ------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [`addon`](https://github.com/wowlabdev/addon)                 | Official companion addon for WoW Lab                                |
-| [`core`](https://github.com/wowlabdev/core)                   | World of Warcraft simulation engine and distributed compute runtime |
-| [`eslint-config`](https://github.com/wowlabdev/eslint-config) | Composable ESLint flat configs for JavaScript and TypeScript        |
-| [`infra`](https://github.com/wowlabdev/infra)                 | Infrastructure and deployment configuration for WoW Lab             |
-| [`markupwright`](https://github.com/wowlabdev/markupwright)   | Template-driven workspace documentation generator                   |
-| [`rulewright`](https://github.com/wowlabdev/rulewright)       | Executable engineering standards for Rust workspaces                |
-| [`web`](https://github.com/wowlabdev/web)                     | Web applications and services for WoW Lab                           |
+| Repository                                                      | Focus                                                               |
+| --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [`addon`](https://github.com/wowlabdev/addon)                   | Official companion addon for WoW Lab                                |
+| [`addon-releases`](https://github.com/wowlabdev/addon-releases) | Packaged releases of the WoW Lab addon                              |
+| [`core`](https://github.com/wowlabdev/core)                     | World of Warcraft simulation engine and distributed compute runtime |
+| [`eslint-config`](https://github.com/wowlabdev/eslint-config)   | Composable ESLint flat configs for JavaScript and TypeScript        |
+| [`infra`](https://github.com/wowlabdev/infra)                   | Infrastructure and deployment configuration for WoW Lab             |
+| [`markupwright`](https://github.com/wowlabdev/markupwright)     | Template-driven workspace documentation generator                   |
+| [`rulewright`](https://github.com/wowlabdev/rulewright)         | Executable engineering standards for Rust workspaces                |
+| [`web`](https://github.com/wowlabdev/web)                       | Web applications and services for WoW Lab                           |
 
 WoW Lab projects are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) unless noted otherwise.
