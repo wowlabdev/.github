@@ -1,32 +1,26 @@
-<p align="center">
-  <a href="https://wowlab.gg">
-    <img src="https://wowlab.gg/logo.png" width="72" alt="WoW Lab" />
-  </a>
-</p>
+# WoW Lab
 
-<h1 align="center">WoW Lab</h1>
+World of Warcraft simulation, planning, and game-data tools.
 
-<p align="center">
-  <a href="https://wowlab.gg/go/discord">Discord</a>
-  |
-  <a href="https://app.wowlab.gg/dev/docs">Docs</a>
-</p>
+[Website](https://wowlab.dev) · [wowlab.gg](https://wowlab.gg) · [Open the app](https://app.wowlab.gg) · [Discord](https://wowlab.gg/go/discord)
 
-## About
+## Products
 
-WoW Lab is a source-available World of Warcraft combat simulator written in Rust. [Run a sim](https://app.wowlab.gg/simulate/quick) in your browser with WebAssembly, or use the hosted pool for larger workloads.
+- **WoW Lab web app:** simulation and planning tools for World of Warcraft.
+- **WoW Lab site:** product information, updates, and access details.
 
-## Projects
+## Public developer tools
 
-| Repository                                                      | Focus                                                               |
-| --------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [`addon`](https://github.com/wowlabdev/addon)                   | Official companion addon for WoW Lab                                |
-| [`addon-releases`](https://github.com/wowlabdev/addon-releases) | Packaged releases of the WoW Lab addon                              |
-| [`core`](https://github.com/wowlabdev/core)                     | World of Warcraft simulation engine and distributed compute runtime |
-| [`eslint-config`](https://github.com/wowlabdev/eslint-config)   | Composable ESLint flat configs for JavaScript and TypeScript        |
-| [`infra`](https://github.com/wowlabdev/infra)                   | Infrastructure and deployment configuration for WoW Lab             |
-| [`markupwright`](https://github.com/wowlabdev/markupwright)     | Template-driven workspace documentation generator                   |
-| [`rulewright`](https://github.com/wowlabdev/rulewright)         | Executable engineering standards for Rust workspaces                |
-| [`web`](https://github.com/wowlabdev/web)                       | Web applications and services for WoW Lab                           |
+- [Rulewright](https://github.com/wowlabdev/rulewright): executable engineering standards for Rust workspaces.
+- [Markupwright](https://github.com/wowlabdev/markupwright): template-driven workspace documentation generation.
+- [ESLint config](https://github.com/wowlabdev/eslint-config): composable flat configs for JavaScript and TypeScript.
 
-WoW Lab projects are licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) unless noted otherwise.
+These projects are available under the MIT License.
+
+## Upcoming public projects
+
+- **Language Tools:** RAL editor tooling.
+- **Blit JS:** JavaScript and React tools for game-asset rendering.
+- **Boardkit:** multiplayer whiteboard and diagram tools for React.
+
+These projects are being prepared for public release under the MIT License.
