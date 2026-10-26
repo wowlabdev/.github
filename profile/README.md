@@ -14,7 +14,7 @@
 
 ## About
 
-WoW Lab is a World of Warcraft simulation and planning platform. This organization is where we publish the open source tools we build along the way.
+Open source tools from [WoW Lab](https://wowlab.gg), the World of Warcraft simulation and planning platform.
 
 ## Projects
 
